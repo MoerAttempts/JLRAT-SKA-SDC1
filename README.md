@@ -1,2 +1,2 @@
 # JLRAT-SKA-SDC1
-JLRAT faced to SKA SDC1
+JLRAT SKA SDC1 solution
