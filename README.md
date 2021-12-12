@@ -12,5 +12,3 @@ keras
 opencv-python
 scikit-image
 scikit-learn
-   
-   
